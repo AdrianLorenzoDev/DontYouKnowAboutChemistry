@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Don\'t you know about chemistry?</string>
+    <string name="chemistry">CHEMISTRY!</string>
+    <string name="submit">Finished!</string>
+    <string name="name">What\'s your name?</string>
+    <string name="q1">Which element has a bigger standard reduction potential?</string>
+    <string name="a11">Zn</string>
+    <string name="a12">Cu</string>
+    <string name="q2">Which element has more electronegativity?</string>
+    <string name="a21">C</string>
+    <string name="a22">H</string>
+    <string name="q3">Which cell generates electric current?</string>
+    <string name="a31">Galvanic cell</string>
+    <string name="a32">Electrolytic cell</string>
+    <string name="q4">Which is the study of carbon\'s chemistry?</string>
+    <string name="a41">Inorganic chemistry</string>
+    <string name="a42">Organic chemistry</string>
+    <string name="q5">Which element has less atomic mass?</string>
+    <string name="a51">Be</string>
+    <string name="a52">Xe</string>
+    <string name="q6">Which quantum number is correct?</string>
+    <string name="a61">(2, 1, -1, -1/2)</string>
+    <string name="a62">(2, 3, -1, 1/2)</string>
+    <string name="q7">What does an acid give in when it is in presence of water?</string>
+    <string name="a71">H+</string>
+    <string name="a72">OH-</string>
+</resources>
